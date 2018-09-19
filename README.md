@@ -8,5 +8,6 @@
 
 
 
-参考博客：http://www.alonemonkey.com/2016/05/25/encrypt-jar-class/
+参考博客：http://www.alonemonkey.com/2016/05/25/encrypt-jar-class
+
 参考 github：https://github.com/AloneMonkey/JarEncrypt
